@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janitha Dilsham</h1>
 <h3 align="center">An enthusiastic DevOps developer based in Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Java Desktop Application** **Financial Management Application**
+- 🔭 I’m currently working on **Java Desktop Application** , **Financial Management Application**
 
 - 🌱 I’m currently learning **Golang, DevOps Engineering**
 
