@@ -21,5 +21,6 @@
 ---
 
 
- ![Janitha's github stats](https://github-readme-stats.vercel.app/api?username=jdilsham&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdilsham&theme=tokyonight)
+ ![Janitha's github stats](https://github-readme-stats.vercel.app/api?username=jdilsham&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdilsham&theme=tokyonight&langs_count=10&cache_seconds=3600)
+
 
