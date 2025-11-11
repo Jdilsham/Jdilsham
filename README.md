@@ -1,21 +1,72 @@
 <h1 align="center">Hi 👋, I'm Janitha Dilsham</h1>
-<h3 align="center">An enthusiastic DevOps developer based in Sri Lanka</h3>
+<h3 align="center">Aspiring DevOps Engineer | Cloud & Kubernetes Enthusiast</h3>
 
-- 🌱 I’m currently learning **DevOps Engineering**
+---
 
-- 💬 Ask me about **Networking (CCNA 200-301)**
+## 🌱 About Me
+- Currently learning **DevOps Engineering** (Docker, Kubernetes, CI/CD)
+- Strong foundation in **Networking (CCNA 200-301)** and **Linux**
+- Exploring **Cloud Technologies** — AWS & Azure
+- Passionate about automation, cloud-native development, and backend engineering
 
-- 📫 How to reach me **janithadilsham@gmail.com**
+📫 Reach me at: **janithadilsham@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/janitha dilsham" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="janitha dilsham" height="30" width="40" /></a>
-<a href="https://fb.com/janitha dilsham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janitha dilsham" height="30" width="40" /></a>
+---
+
+## 🌐 Connect With Me
+<a href="https://linkedin.com/in/janitha-dilsham-61bb612a4" target="_blank">LinkedIn</a>
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🚀 DevOps & Cloud
+- Docker  
+- Kubernetes  
+- Git & GitHub  
+- GitHub Actions  
+- Jenkins  
+- Linux  
+- AWS  
+- Azure  
+
+### 💻 Programming & Backend
+- Java  
+- JavaScript  
+- C  
+
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+
+### 🔧 Tools
+- VS Code  
+- Postman  
+- Termius  
+
+### 🎓 Certifications
+- CCNA 200-301 (Completed)
+
+---
+
+## 🚀 Featured Project: FixMate
+A complete DevOps-enabled Home Services Platform  
+- Dockerized backend  
+- CI/CD with GitHub Actions  
+- Kubernetes deployment (Minikube)  
+- PostgreSQL + Flyway migrations  
+- Spring Boot, React & Flutter stack  
+
+👉 *(Add your repo link once public)*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdilsham&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdilsham&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"></p>
+---
 
-
-
-
+⭐ *Thank you for visiting! Feel free to explore my repositories.*
